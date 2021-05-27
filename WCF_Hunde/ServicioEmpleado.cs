@@ -12,6 +12,7 @@ namespace WCF_Hunde
     {
         public void DoWork()
         {
+            //Ejemnplo de cambio
         }
     }
 }
